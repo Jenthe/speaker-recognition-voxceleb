@@ -1,4 +1,4 @@
-# speaker-recognition-voxceleb
+# Speaker Recognition with VoxCeleb
 
 ## Usage
 
